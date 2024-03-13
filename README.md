@@ -10,5 +10,3 @@ This is a basic stock predictor streamlit webapp using ML.
 
 In this project I have used vscode inbuilt jupyter notebook but you can use any online notebook.
 
-
-![alt text](vscode jupyter notebook.jpg)
