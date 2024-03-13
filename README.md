@@ -10,4 +10,4 @@ This is a basic stock predictor streamlit webapp using ML.
 
 In this project I have used vscode inbuilt jupyter notebook but you can use any online notebook.
 
-Run the app.py from the terminal by typing 'streamlit run app.py'.
+**Run the app.py from the terminal by typing 'streamlit run app.py'.
