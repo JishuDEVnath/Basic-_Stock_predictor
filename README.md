@@ -2,6 +2,7 @@
 
 This is a basic stock predictor streamlit webapp using ML.
 
+>blockquote
 1. If you want to try this, firstly upload the ipynb file to any online jupyter notebook(eg: googlecolab, kaggle or you can use the jupyter notebook).
 
 2. Then install all the important requrirements in the app.py file such as pandas , numpy, pyplot, yfinance etc. suing pip or venv in the terminal of your project.
