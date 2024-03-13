@@ -8,8 +8,8 @@ This is a basic stock predictor streamlit webapp using ML.
 
  3. You also need to install streamlit using pip or venv in the same terminal to run the project in the webapp an then you are all set to go.  
 
-In this project I have used vscode inbuilt jupyter notebook but you can use any online notebook.
-
+In this project I have used inbuilt jupyter notebook within the vscode with jupyter notebook support extension installed, but you can use any online notebook.
+ 
 ** Run the app.py from the terminal by typing `streamlit run app.py`.
 
 ** You can give any name to your .py file. Here I have given my .py file name as 'app.py'.  
