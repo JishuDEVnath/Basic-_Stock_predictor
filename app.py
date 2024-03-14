@@ -1,4 +1,4 @@
-#import pandas_datareader as web
+import pandas_datareader as web
 import datetime
 import yfinance as yf 
 import matplotlib.pyplot as plt
